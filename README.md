@@ -24,6 +24,11 @@ Start the development server on http://localhost:3000
 ```bash
 npm run dev
 ```
+Start the Json test server on http://localhost:3001
+
+```bash
+npm run db:serve
+```
 
 ## Production
 
